@@ -25,5 +25,5 @@ td:hover{
 	color:royalblue;
 	background:red;
 	transform:rotate(360deg);
-width:115px;}
+width:120px;}
 	
